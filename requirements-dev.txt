@@ -1,0 +1,3 @@
+# Only needed for tools/measure_nfr.py (CPU and memory sampling)
+-r requirements.txt
+psutil==7.2.2               # BSD-3-Clause

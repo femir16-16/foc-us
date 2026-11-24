@@ -1,0 +1,8 @@
+# Exact versions tested with Foc&US on Windows 11, Python 3.14 (NFR-13).
+mediapipe==1.0.1            # Apache-2.0
+opencv-python==5.0.0.93     # Apache-2.0
+numpy==2.4.2                # BSD-3-Clause
+Pillow==12.3.0              # MIT-CMU (HPND)
+
+# Model files in models/ (Apache-2.0, Google MediaPipe):
+#   pose_landmarker_lite.task, face_landmarker.task

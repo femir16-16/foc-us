@@ -1,0 +1,18 @@
+# Personal data written while the app runs: session history and settings (never commit)
+data/*
+!data/.gitkeep
+
+# Machine-specific measurement output (contains device details and network addresses)
+test_results/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and operating system
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
